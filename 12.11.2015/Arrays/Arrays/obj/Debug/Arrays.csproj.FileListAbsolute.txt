@@ -1,0 +1,9 @@
+c:\users\l4-0\documents\visual studio 2015\Projects\Arrays\Arrays\bin\Debug\Arrays.exe.config
+c:\users\l4-0\documents\visual studio 2015\Projects\Arrays\Arrays\bin\Debug\Arrays.exe
+c:\users\l4-0\documents\visual studio 2015\Projects\Arrays\Arrays\bin\Debug\Arrays.pdb
+c:\users\l4-0\documents\visual studio 2015\Projects\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+c:\users\l4-0\documents\visual studio 2015\Projects\Arrays\Arrays\obj\Debug\Arrays.Form1.resources
+c:\users\l4-0\documents\visual studio 2015\Projects\Arrays\Arrays\obj\Debug\Arrays.Properties.Resources.resources
+c:\users\l4-0\documents\visual studio 2015\Projects\Arrays\Arrays\obj\Debug\Arrays.csproj.GenerateResource.Cache
+c:\users\l4-0\documents\visual studio 2015\Projects\Arrays\Arrays\obj\Debug\Arrays.exe
+c:\users\l4-0\documents\visual studio 2015\Projects\Arrays\Arrays\obj\Debug\Arrays.pdb

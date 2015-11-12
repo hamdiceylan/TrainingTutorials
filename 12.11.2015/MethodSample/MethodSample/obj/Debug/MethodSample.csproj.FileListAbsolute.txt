@@ -1,0 +1,9 @@
+c:\users\l4-0\documents\visual studio 2015\Projects\MethodSample\MethodSample\bin\Debug\MethodSample.exe.config
+c:\users\l4-0\documents\visual studio 2015\Projects\MethodSample\MethodSample\bin\Debug\MethodSample.exe
+c:\users\l4-0\documents\visual studio 2015\Projects\MethodSample\MethodSample\bin\Debug\MethodSample.pdb
+c:\users\l4-0\documents\visual studio 2015\Projects\MethodSample\MethodSample\obj\Debug\MethodSample.csprojResolveAssemblyReference.cache
+c:\users\l4-0\documents\visual studio 2015\Projects\MethodSample\MethodSample\obj\Debug\MethodSample.Form1.resources
+c:\users\l4-0\documents\visual studio 2015\Projects\MethodSample\MethodSample\obj\Debug\MethodSample.Properties.Resources.resources
+c:\users\l4-0\documents\visual studio 2015\Projects\MethodSample\MethodSample\obj\Debug\MethodSample.csproj.GenerateResource.Cache
+c:\users\l4-0\documents\visual studio 2015\Projects\MethodSample\MethodSample\obj\Debug\MethodSample.exe
+c:\users\l4-0\documents\visual studio 2015\Projects\MethodSample\MethodSample\obj\Debug\MethodSample.pdb
